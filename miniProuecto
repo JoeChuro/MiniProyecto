@@ -1,0 +1,18 @@
+Desarrollar una solución para calcular un valor aproximado de una integral definida 
+utilizando el método de Simpson 1/3.
+Al ser únicamente una aproximación, tiene errores, que en algunos casos son 
+inaceptables, es por ello que existen variantes del método - anteriormente 
+mencionado - que buscan mejorar su precisión. A continuación se presentan dos de 
+esas variantes.
+Mini Proyecto
+Simpson 1/3 compuesta
+n es el número de subintervalos con los que se desea trabajar. Este dato es 
+ingresado por el usuario o definido por ustedes en su programa.
+OJO que esta aproximación únicamente funciona cuando el n es par.
+ Para mayores detalles revisar: 
+https://www.freecodecamp.org/espanol/news/la-regla-de-simpson-la-formula-y-como-funciona/
+Mini Proyecto
+Simpson 1/3 extendida
+Para mayor referencia sobre la variante, los invito a consultar el libro (disponible 
+biblioteca física UTPL): Shoischiro, N. (1992). Métodos numéricos aplicados con Software. 
+Prentice Hall.
